@@ -718,3 +718,9 @@ footer .row .col-md-2:nth-child(4){
     margin: 0;
     text-align: center;
 }
+.contact{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

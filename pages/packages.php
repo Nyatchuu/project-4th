@@ -100,6 +100,7 @@
             </div>
         </div>
     </div>
+    
     <?php
             include('../page-components/footer.php');
         ?>
